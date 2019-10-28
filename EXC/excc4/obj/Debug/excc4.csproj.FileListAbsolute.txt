@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EXC\excc4\bin\Debug\excc4.exe.config
+C:\Users\User\Desktop\EXC\excc4\bin\Debug\excc4.exe
+C:\Users\User\Desktop\EXC\excc4\bin\Debug\excc4.pdb
+C:\Users\User\Desktop\EXC\excc4\obj\Debug\excc4.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EXC\excc4\obj\Debug\excc4.exe
+C:\Users\User\Desktop\EXC\excc4\obj\Debug\excc4.pdb

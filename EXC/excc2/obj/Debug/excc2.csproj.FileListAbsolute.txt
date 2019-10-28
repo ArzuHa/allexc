@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EXC\excc2\bin\Debug\excc2.exe.config
+C:\Users\User\Desktop\EXC\excc2\bin\Debug\excc2.exe
+C:\Users\User\Desktop\EXC\excc2\bin\Debug\excc2.pdb
+C:\Users\User\Desktop\EXC\excc2\obj\Debug\excc2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EXC\excc2\obj\Debug\excc2.exe
+C:\Users\User\Desktop\EXC\excc2\obj\Debug\excc2.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EXC\EXC\bin\Debug\EXC.exe.config
+C:\Users\User\Desktop\EXC\EXC\bin\Debug\EXC.exe
+C:\Users\User\Desktop\EXC\EXC\bin\Debug\EXC.pdb
+C:\Users\User\Desktop\EXC\EXC\obj\Debug\EXC.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EXC\EXC\obj\Debug\EXC.exe
+C:\Users\User\Desktop\EXC\EXC\obj\Debug\EXC.pdb
